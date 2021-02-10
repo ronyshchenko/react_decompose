@@ -11,7 +11,8 @@ html {
 
 body {
   margin: 0;
-  background: #eee;
+  /* background: #eee; */
+  background: red;
 }
 
 .welcome {
